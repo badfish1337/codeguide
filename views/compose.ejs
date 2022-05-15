@@ -1,0 +1,28 @@
+<%- include("partials/header.ejs") -%>
+
+
+<div class="container-fluid blog">
+    <div class="box" id="heading">
+        <h1>Compose</h1>
+    </div>
+
+    <form action="/compose" method="post">
+        <div class="form-group">
+
+            <label class="form-label" for="newTitle">Title</label>
+            <input class="form-control form-control-lg" id="newTitle" type="text" name="newTitle"
+                   placeholder="Post Title" autocomplete="off">
+
+            <label class="form-label" for="postBody">Post</label>
+            <textarea class="form-control" id="postBody" name="postBody" rows="20" cols="40"
+                      placeholder="Write masterpiece here..."
+                      autocomplete="off"></textarea>
+        </div>
+
+        <button class="btn" type="submit" name="compose">Publish</button>
+    </form>
+
+</div>
+
+<%- include("partials/footer.ejs") -%>
+

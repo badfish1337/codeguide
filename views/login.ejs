@@ -1,0 +1,25 @@
+<%- include('partials/header') %>
+
+<div class="container-fluid blog">
+    <div class="box" id="heading">
+        <h1>Login</h1>
+    </div>
+
+    <form action="/login" method="POST">
+        <div class="form-group">
+
+            <label class="form-label" for="email">Email
+                <input type="email" class="form-control" name="username" autocomplete="off">
+            </label>
+
+            <label class="form-label" for="password">Password
+                <input type="password" class="form-control" name="password" autocomplete="off">
+            </label>
+        </div>
+
+        <button type="submit" class="btn btn-dark">Login</button>
+  </form>
+
+</div>
+
+<%- include('partials/footer') %>

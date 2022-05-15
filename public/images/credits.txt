@@ -1,0 +1,10 @@
+animated brackets: giphy - 
+frustrated icon: <a href="https://www.flaticon.com/free-icons/stress" title="stress icons">Stress icons created by Eucalyp - Flaticon</a>
+c++ icon: <a href="https://www.flaticon.com/free-icons/c-" title="c++ icons">C++ icons created by Freepik - Flaticon</a>
+java icon: <a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
+javascript icon: <a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon</a>
+css icon: <a href="https://www.flaticon.com/free-icons/css" title="css icons">Css icons created by Pixel perfect - Flaticon</a>
+python icon: <a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+linux icon: <a href="https://www.flaticon.com/free-icons/linux" title="linux icons">Linux icons created by Freepik - Flaticon</a>
+servers icon: <a href="https://www.flaticon.com/free-icons/server" title="server icons">Server icons created by Freepik - Flaticon</a>
+networking icon: <a href="https://www.flaticon.com/free-icons/server" title="server icons">Server icons created by Eucalyp - Flaticon</a>
